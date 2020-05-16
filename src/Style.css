@@ -1,0 +1,81 @@
+.root{
+     -fx-background-color: #ffffff;
+     -fx-font-size: 11pt;
+ }
+
+    /* MAIN CLASS */
+ .l {
+    -fx-font: normal 50px 'arial';
+    -fx-text-fill: #000000;
+ }
+
+ #programName {
+     -fx-font: normal bold 60px 'arial';
+     -fx-text-fill: #000000;
+ }
+
+ #button {
+    -fx-font: normal bold 20px 'arial';
+    -fx-background-color: #bf2626;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 8;
+ }
+
+
+    /* MENU CLASS */
+ #option {
+    -fx-font: normal bold 20px 'arial';
+}
+
+ #inventory {
+    -fx-font: normal bold 20px 'arial';
+    -fx-background-color: #24b34c;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 8;
+}
+
+ #users {
+    -fx-font: normal bold 20px 'arial';
+    -fx-background-color: #2c8ba8;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 8;
+}
+
+ #logout {
+    -fx-font: normal bold 20px 'arial';
+    -fx-background-color: #ba2328;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 8;
+}
+
+    /* TABLE ITEMS - USERS CLASS */
+
+ #add{
+    -fx-font: normal bold 11pt 'arial';
+    -fx-text-fill: #3fba23;
+    -fx-background-radius: 6;
+}
+
+ #update{
+    -fx-font: normal bold 11pt 'arial';
+    -fx-text-fill: #c7b03c;
+    -fx-background-radius: 6;
+}
+
+ #delete{
+    -fx-font: normal bold 11pt 'arial';
+    -fx-text-fill: #ba2323;
+    -fx-background-radius: 6;
+}
+
+ #backMenu{
+    -fx-font: normal bold 10pt 'arial';
+    -fx-text-fill: #000000;
+    -fx-background-radius: 6;
+}
+
+ #yesButton{
+    -fx-font: normal bold 11pt 'arial';
+    -fx-text-fill: #000000;
+    -fx-background-radius: 6;
+}
